@@ -2,3 +2,4 @@
 
 # to draw and process images
 Pillow
+numpy
